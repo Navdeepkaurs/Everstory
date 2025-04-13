@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+.npm
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Docker
+.env
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
